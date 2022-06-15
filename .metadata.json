@@ -1,0 +1,30 @@
+[
+  {
+    "package": "arrangements",
+    "oncran": true
+  },
+  {
+    "package": "cliff",
+    "oncran": true
+  },
+  {
+    "package": "collections",
+    "oncran": true
+  },
+  {
+    "package": "iterpc",
+    "oncran": true
+  },
+  {
+    "package": "otp",
+    "oncran": true
+  },
+  {
+    "package": "retry",
+    "oncran": true
+  },
+  {
+    "package": "xptr",
+    "oncran": true
+  }
+]
