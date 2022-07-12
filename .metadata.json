@@ -4,10 +4,6 @@
     "oncran": true
   },
   {
-    "package": "cliff",
-    "oncran": true
-  },
-  {
     "package": "collections",
     "oncran": true
   },
