@@ -8,6 +8,11 @@
 	url = https://github.com/randy3k/arrangements
 	shallow = true
 	registered = true
+[submodule "cliff"]
+	path = cliff
+	url = https://github.com/randy3k/cliff
+	shallow = true
+	registered = true
 [submodule "collections"]
 	path = collections
 	url = https://github.com/randy3k/collections
