@@ -28,11 +28,6 @@
 	url = https://github.com/randy3k/otp
 	shallow = true
 	registered = true
-[submodule "retry"]
-	path = retry
-	url = https://github.com/randy3k/retry
-	shallow = true
-	registered = true
 [submodule "xptr"]
 	path = xptr
 	url = https://github.com/randy3k/xptr
