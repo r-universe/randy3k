@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "retry",
+    "oncran": true
+  },
+  {
     "package": "xptr",
     "oncran": true
   }
