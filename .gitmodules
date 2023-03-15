@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "arrangements"]
-	path = arrangements
-	url = https://github.com/randy3k/arrangements
-	shallow = true
-	registered = true
 [submodule "cliff"]
 	path = cliff
 	url = https://github.com/randy3k/cliff
-	shallow = true
-	registered = true
-[submodule "collections"]
-	path = collections
-	url = https://github.com/randy3k/collections
-	shallow = true
-	registered = true
-[submodule "iterpc"]
-	path = iterpc
-	url = https://github.com/randy3k/iterpc
-	shallow = true
-	registered = true
-[submodule "otp"]
-	path = otp
-	url = https://github.com/randy3k/otp
 	shallow = true
 	registered = true
 [submodule "retry"]
@@ -33,8 +13,28 @@
 	url = https://github.com/randy3k/retry
 	shallow = true
 	registered = true
+[submodule "arrangements"]
+	path = arrangements
+	url = https://github.com/randy3k/arrangements
+	shallow = true
+	registered = true
 [submodule "xptr"]
 	path = xptr
 	url = https://github.com/randy3k/xptr
+	shallow = true
+	registered = true
+[submodule "iterpc"]
+	path = iterpc
+	url = https://github.com/randy3k/iterpc
+	shallow = true
+	registered = true
+[submodule "collections"]
+	path = collections
+	url = https://github.com/randy3k/collections
+	shallow = true
+	registered = true
+[submodule "otp"]
+	path = otp
+	url = https://github.com/randy3k/otp
 	shallow = true
 	registered = true

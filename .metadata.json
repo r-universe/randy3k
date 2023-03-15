@@ -1,22 +1,6 @@
 [
   {
-    "package": "arrangements",
-    "oncran": true
-  },
-  {
     "package": "cliff",
-    "oncran": true
-  },
-  {
-    "package": "collections",
-    "oncran": true
-  },
-  {
-    "package": "iterpc",
-    "oncran": true
-  },
-  {
-    "package": "otp",
     "oncran": true
   },
   {
@@ -24,7 +8,22 @@
     "oncran": true
   },
   {
-    "package": "xptr",
+    "package": "arrangements",
+    "oncran": true
+  },
+  {
+    "package": "xptr"
+  },
+  {
+    "package": "iterpc",
+    "oncran": true
+  },
+  {
+    "package": "collections",
+    "oncran": true
+  },
+  {
+    "package": "otp",
     "oncran": true
   }
 ]
