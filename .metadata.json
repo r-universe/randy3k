@@ -1,21 +1,10 @@
 [
   {
-    "package": "cliff",
-    "oncran": true
-  },
-  {
-    "package": "retry",
-    "oncran": true
-  },
-  {
     "package": "arrangements",
     "oncran": true
   },
   {
-    "package": "xptr"
-  },
-  {
-    "package": "iterpc",
+    "package": "cliff",
     "oncran": true
   },
   {
@@ -23,7 +12,18 @@
     "oncran": true
   },
   {
+    "package": "iterpc",
+    "oncran": true
+  },
+  {
     "package": "otp",
     "oncran": true
+  },
+  {
+    "package": "retry",
+    "oncran": true
+  },
+  {
+    "package": "xptr"
   }
 ]
